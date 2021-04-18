@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/problem/static/css/main.7591e14b.chunk.css",
+    "main.js": "/problem/static/js/main.5f093115.chunk.js",
+    "main.js.map": "/problem/static/js/main.5f093115.chunk.js.map",
+    "runtime-main.js": "/problem/static/js/runtime-main.8c4f7a68.js",
+    "runtime-main.js.map": "/problem/static/js/runtime-main.8c4f7a68.js.map",
+    "static/js/2.7ca95d19.chunk.js": "/problem/static/js/2.7ca95d19.chunk.js",
+    "static/js/2.7ca95d19.chunk.js.map": "/problem/static/js/2.7ca95d19.chunk.js.map",
+    "static/js/3.78bd56f2.chunk.js": "/problem/static/js/3.78bd56f2.chunk.js",
+    "static/js/3.78bd56f2.chunk.js.map": "/problem/static/js/3.78bd56f2.chunk.js.map",
+    "index.html": "/problem/index.html",
+    "static/css/main.7591e14b.chunk.css.map": "/problem/static/css/main.7591e14b.chunk.css.map",
+    "static/js/2.7ca95d19.chunk.js.LICENSE.txt": "/problem/static/js/2.7ca95d19.chunk.js.LICENSE.txt",
+    "static/media/me_with_laptop.ec1e9e92.svg": "/problem/static/media/me_with_laptop.ec1e9e92.svg",
+    "static/media/rocket.3b9a0c3c.svg": "/problem/static/media/rocket.3b9a0c3c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c4f7a68.js",
+    "static/js/2.7ca95d19.chunk.js",
+    "static/css/main.7591e14b.chunk.css",
+    "static/js/main.5f093115.chunk.js"
+  ]
+}
